@@ -15,10 +15,10 @@ const ResumeDownload: React.FC<ResumeDownloadProps> = ({ altText }) => {
             <div style={styles.resumeContainerText}>
                 <h3>{altText ? altText : t('resume.title')}</h3>
                 <div style={styles.resumeLinks}>
-                    <a rel="noreferrer" target="_blank" href="/Fernando_Bezerra_Resume_EN.pdf" download style={styles.resumeLink}>
+                    <a rel="noreferrer" target="_blank" href={`${process.env.PUBLIC_URL}/Fernando_Bezerra_Resume_EN.pdf`} download style={styles.resumeLink}>
                         <p>📄 {t('resume.en')}</p>
                     </a>
-                    <a rel="noreferrer" target="_blank" href="/Fernando_Bezerra_Resume_PT.pdf" download style={styles.resumeLink}>
+                    <a rel="noreferrer" target="_blank" href={`${process.env.PUBLIC_URL}/Fernando_Bezerra_Resume_PT.pdf`} download style={styles.resumeLink}>
                         <p>📄 {t('resume.pt')}</p>
                     </a>
                 </div>
