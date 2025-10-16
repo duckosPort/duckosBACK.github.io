@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/duckosBACK.github.io/static/css/main.185e7766.css",
-    "main.js": "/duckosBACK.github.io/static/js/main.be6ad119.js",
+    "main.js": "/duckosBACK.github.io/static/js/main.0501b899.js",
     "static/js/928.da52e054.chunk.js": "/duckosBACK.github.io/static/js/928.da52e054.chunk.js",
     "static/js/787.749b4a44.chunk.js": "/duckosBACK.github.io/static/js/787.749b4a44.chunk.js",
     "static/media/edit.png": "/duckosBACK.github.io/static/media/edit.e48f63d549522cae846d.png",
@@ -89,12 +89,12 @@
     "static/media/KaTeX_Size3-Regular.woff2": "/duckosBACK.github.io/static/media/KaTeX_Size3-Regular.e1951519f6f0596f7356.woff2",
     "index.html": "/duckosBACK.github.io/index.html",
     "main.185e7766.css.map": "/duckosBACK.github.io/static/css/main.185e7766.css.map",
-    "main.be6ad119.js.map": "/duckosBACK.github.io/static/js/main.be6ad119.js.map",
+    "main.0501b899.js.map": "/duckosBACK.github.io/static/js/main.0501b899.js.map",
     "928.da52e054.chunk.js.map": "/duckosBACK.github.io/static/js/928.da52e054.chunk.js.map",
     "787.749b4a44.chunk.js.map": "/duckosBACK.github.io/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.185e7766.css",
-    "static/js/main.be6ad119.js"
+    "static/js/main.0501b899.js"
   ]
 }
